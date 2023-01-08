@@ -6,7 +6,7 @@ The purpose of this project is to implement unsupervised machine learning models
 
 The scatterplots below show our data results.
 
-<https://github.com/Zbahsoun/Cryptocurrencies/blob/main/3Dscatterplot.png" width=60% height=50%>
+<img src="https://github.com/Zbahsoun/Cryptocurrencies/blob/main/3Dscatterplot.png" width=60% height=50%>
 
 
-<https://github.com/Zbahsoun/Cryptocurrencies/blob/main/2Dscatterplot.png" width=60% height=50%>
+<img src="https://github.com/Zbahsoun/Cryptocurrencies/blob/main/2Dscatterplot.png" width=60% height=50%>
